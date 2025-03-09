@@ -73,8 +73,8 @@ mvn spring-boot:run
 This project is licensed under the MIT License.
 
 ## Author
-- **Your Name** (Update this with your name)
-- GitHub: [your-profile](https://github.com/your-profile)
+- **Ahmed Adel**
+- GitHub: [your-profile](https://github.com/a7med3del1973)
 
 ---
 Enjoy chatting! 🚀
