@@ -24,7 +24,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 ```sh
 git clone https://github.com/spring-web-chat.git
-cd chat-app
+cd spring-web-chat
 ```
 
 ### Build the Application
